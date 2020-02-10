@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"expanded":false,"name":"title","order":1,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":true,"name":"main","order":2,"parentId":0,"scrollX":396,"scrollY":329.77777777777777},
+{"id":3,"expanded":false,"name":"caution","order":3,"parentId":2,"scrollX":418.22222222222223,"scrollY":318.6666666666667},
+{"id":4,"expanded":true,"name":"miwatasu","order":4,"parentId":0,"scrollX":396,"scrollY":329.77777777777777},
+{"id":5,"expanded":true,"name":"miwatasu_OP","order":5,"parentId":0,"scrollX":396,"scrollY":330.22222222222223}
+]
